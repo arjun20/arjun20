@@ -10,7 +10,7 @@ Here are some of my featured projects 👇
 | Project | Preview | Description |
 |---------|---------|-------------|
 | **NFC Tag Reader App** | ![NFC App](assets/NFC.png) | Secure NFC reader app (ISO7816 + NFCNDEFTag protocols) with SHA-256 decryption in Swift. |
-| **Screen Time Family Control** | [![Screen Time](https://www.youtube.com/watch?v=c269rjOC9bA/hqdefault.jpg)](https://www.youtube.com/watch?v=c269rjOC9bA) | Parental Control App in iOS App - Block Apps by Day & Time  |
+| **Screen Time Family Control** | [![Screen Time](https://img.youtube.com/vi/c269rjOC9bA/hqdefault.jpg)](https://www.youtube.com/watch?v=c269rjOC9bA) | Parental Control iOS App — Block apps by day & time |
 | **AI Automation Tool** | [![AI Upload Tool](https://img.youtube.com/vi/N8ZMq85U3-c/hqdefault.jpg)](https://www.youtube.com/watch?v=N8ZMq85U3-c) | Python + AI tool that uploads Zoom recordings to Google Drive, generates a summary. |
 | **WatchOS SwiftUI Demo** | [![Watch App](https://img.youtube.com/vi/Xwg96dKpfZM/hqdefault.jpg)](https://www.youtube.com/watch?v=Xwg96dKpfZM) | SwiftUI WatchOS app showcas |
 
