@@ -9,7 +9,7 @@ Here are some of my featured projects 👇
 
 | Project | Preview | Description |
 |---------|---------|-------------|
-| **NFC Tag Reader App** | [![NFC App](assets/NFC.png)] | Secure NFC reader app (ISO7816 + NFCNDEFTag protocols) with SHA-256 decryption in Swift. |
+| **NFC Tag Reader App** | ![NFC App](assets/NFC.png) | Secure NFC reader app (ISO7816 + NFCNDEFTag protocols) with SHA-256 decryption in Swift. |
 | **Salon Booking Web App** | [![Salon Booking](assets/salon_booking_thumb.jpg)](https://youtu.be/YOUR_SALON_VIDEO_LINK) | Full-stack web app for salon appointments + loyalty offers & client engagement. |
 | **AI Automation Tool** | [![AI Upload Tool](assets/ai_tool_thumb.jpg)](https://youtu.be/YOUR_AI_TOOL_VIDEO_LINK) | Python + AI tool that uploads Zoom recordings to Google Drive, generates a summary. |
 | **WatchOS SwiftUI Demo** | [![Watch App](assets/watch_app_thumb.jpg)](https://youtu.be/YOUR_WATCH_VIDEO_LINK) | SwiftUI WatchOS app showcasing interactive UI and iPhone sync. |
