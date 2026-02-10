@@ -32,14 +32,6 @@ Here are some of my featured projects 👇
 
 ---
 
-## 📊 GitHub Stats
-
-![Arjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
-
----
-
 ## 🤖 AI Tools & Productivity
 
 I’m an early adopter of AI-powered development workflows — using tools that accelerate coding, design, and debugging:
